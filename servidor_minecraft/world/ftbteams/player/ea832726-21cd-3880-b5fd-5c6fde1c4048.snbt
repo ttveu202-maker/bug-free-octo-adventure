@@ -1,0 +1,17 @@
+{
+	id: "ea832726-21cd-3880-b5fd-5c6fde1c4048"
+	type: "player"
+	player_name: "levert9988"
+	ranks: {
+		ea832726-21cd-3880-b5fd-5c6fde1c4048: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "levert9988"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

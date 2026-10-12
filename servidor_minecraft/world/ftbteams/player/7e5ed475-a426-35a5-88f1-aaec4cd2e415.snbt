@@ -1,0 +1,17 @@
+{
+	id: "7e5ed475-a426-35a5-88f1-aaec4cd2e415"
+	type: "player"
+	player_name: "shharxn"
+	ranks: {
+		7e5ed475-a426-35a5-88f1-aaec4cd2e415: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "shharxn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

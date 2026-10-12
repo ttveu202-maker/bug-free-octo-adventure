@@ -1,0 +1,17 @@
+{
+	id: "519c5695-a724-432c-be11-4ef5f3550494"
+	type: "party"
+	owner: "0eaa7ee3-f589-3981-bc33-bd971c3bb929"
+	ranks: {
+		0eaa7ee3-f589-3981-bc33-bd971c3bb929: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pipiripipi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFDB59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1791765024257L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"IIalbaaII\"}]}" }]
+	extra: { }
+}

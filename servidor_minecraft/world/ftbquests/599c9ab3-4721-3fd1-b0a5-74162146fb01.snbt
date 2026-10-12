@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "599c9ab347213fd1b0a574162146fb01"
+	name: "almendra#599c9ab3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

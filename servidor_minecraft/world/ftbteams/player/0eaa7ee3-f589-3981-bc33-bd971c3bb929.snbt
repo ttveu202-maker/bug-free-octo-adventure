@@ -1,0 +1,15 @@
+{
+	id: "0eaa7ee3-f589-3981-bc33-bd971c3bb929"
+	type: "player"
+	player_name: "IIalbaaII"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "IIalbaaII"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFDB59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

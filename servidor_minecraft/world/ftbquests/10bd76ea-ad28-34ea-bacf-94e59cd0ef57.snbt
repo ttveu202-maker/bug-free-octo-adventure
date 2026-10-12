@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "10bd76eaad2834eabacf94e59cd0ef57"
+	name: "Bikito_uwu#10bd76ea"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

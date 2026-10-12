@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "7e75833e535b3259816d722234b95153"
+	name: "Fabrixd#7e75833e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

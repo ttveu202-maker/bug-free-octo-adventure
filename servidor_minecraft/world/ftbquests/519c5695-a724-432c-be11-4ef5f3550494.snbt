@@ -1,0 +1,18 @@
+{
+	version: 1
+	uuid: "519c5695a724432cbe114ef5f3550494"
+	name: "pipiripipi#519c5695"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: {
+		0eaa7ee3f5893981bc33bd971c3bb929: {
+			pinned_quests: ["0000000000000001"]
+		}
+	}
+}

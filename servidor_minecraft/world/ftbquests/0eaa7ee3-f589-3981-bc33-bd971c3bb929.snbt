@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "0eaa7ee3f5893981bc33bd971c3bb929"
+	name: "IIalbaaII#0eaa7ee3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

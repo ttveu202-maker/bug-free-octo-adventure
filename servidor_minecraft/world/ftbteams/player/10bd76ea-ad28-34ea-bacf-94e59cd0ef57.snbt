@@ -1,0 +1,17 @@
+{
+	id: "10bd76ea-ad28-34ea-bacf-94e59cd0ef57"
+	type: "player"
+	player_name: "Bikito_uwu"
+	ranks: {
+		10bd76ea-ad28-34ea-bacf-94e59cd0ef57: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Bikito_uwu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

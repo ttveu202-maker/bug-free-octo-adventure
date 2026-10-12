@@ -1,0 +1,17 @@
+{
+	id: "7e75833e-535b-3259-816d-722234b95153"
+	type: "player"
+	player_name: "Fabrixd"
+	ranks: {
+		7e75833e-535b-3259-816d-722234b95153: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Fabrixd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "ea83272621cd3880b5fd5c6fde1c4048"
+	name: "levert9988#ea832726"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

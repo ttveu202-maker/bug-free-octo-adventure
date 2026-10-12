@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "7e5ed475a42635a588f1aaec4cd2e415"
+	name: "shharxn#7e5ed475"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
